@@ -1,0 +1,111 @@
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+input[type=submit] {
+    background-color: #bee3ec;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+#rangkaian-acara{
+    text-align: center;
+    padding-top: 5vw;
+    padding-bottom: 8vw; 
+}
+
+#keynote{
+    text-align: center;
+    padding-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#paneldiscussion{
+    text-align: center;
+    padding-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#companypresentation{
+    text-align: center;
+    padding-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#techshow{
+    text-align: center;
+    padding-bottom: 2vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#pastspeaker{
+    text-align: center;
+    padding-top: 13vw;
+    padding-bottom: 8vw;
+}
+
+#carouselExampleIndicators{
+    padding-bottom: 8vw;
+    text-align: center;
+}
+
+.w-100 {
+    width: 27% !important;
+    height: 65vh;
+    margin-left: 36vw;
+}
+
+.timeline{
+    text-align: center;
+    padding-top: 13vw;
+    padding-bottom: 8vw;
+}
+
+#timelinee{
+    padding-bottom: 8vw;
+}
+
+.container2{
+    padding-top: 8vw;
+}
+
+#form-register{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+}
+
+#register{
+    text-align: center;
+    padding-bottom: 2vw;
+}
+
+#dropdown{
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+}
+
+#ajax{
+    margin-top: 10vw;
+}
